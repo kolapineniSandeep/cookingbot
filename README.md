@@ -13,3 +13,19 @@ The model architecture used for CookingBot is a Bidirectional LSTM, which is a t
 
 https://user-images.githubusercontent.com/98118151/233203663-de111623-f3f6-45f3-89c2-3d344cbc9e3d.mp4
 
+## How to run 
+
+Download glove.6B.300d.txt from below , zip it and add along in project directly 
+```
+https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt
+```
+Install all requirements from requirements.txt
+run below command 
+```
+Python3 app.py
+```
+access application from 
+
+```
+http://127.0.0.1:5001/
+```
