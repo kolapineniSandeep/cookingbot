@@ -1,6 +1,6 @@
 FROM python:3.10-slim
 
-WORKDIR /AI_BOT
+WORKDIR /COOKING_BOT
 COPY requirements.txt .
 RUN apt-get update && apt-get install -y build-essential && \
     pip install --no-cache-dir -r requirements.txt && \
