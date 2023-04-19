@@ -1,0 +1,178 @@
+{
+  "intents": [
+    {"intent": "Sushi",
+      "text": [
+        "How do I make sushi rice?",
+        "What's the recipe for a California roll?",
+        "Can I make sushi without raw fish?"
+      ],
+      "responses": [
+        "To make sushi rice, combine rice vinegar, sugar, and salt with cooked sushi rice. For a California roll, combine crab, avocado, and cucumber and roll in nori and sushi rice. Yes, you can make sushi with cooked or smoked fish."
+      ]
+    },
+    {
+      "intent": "Pasta",
+      "text": [
+        "What's the recipe for spaghetti carbonara?",
+        "How do I make lasagna?",
+        "Can I make pasta without a pasta machine?"
+      ],
+      "responses": [
+        "To make spaghetti carbonara, cook spaghetti and mix with eggs, parmesan cheese, and pancetta. For lasagna, layer cooked noodles with sauce, cheese, and meat. Yes, you can make pasta without a pasta machine by rolling it out by hand or using a rolling pin."
+      ]
+    },
+    {
+      "intent": "Pizza",
+      "text": [
+        "What's the recipe for a margherita pizza?",
+        "How do I make pizza dough?",
+        "Can I make pizza on the grill?"
+      ],
+      "responses": [
+        "To make a margherita pizza, top pizza dough with tomato sauce, fresh mozzarella, and basil. For pizza dough, mix flour, yeast, salt, and water and let rise. Yes, you can make pizza on the grill by using a pizza stone and indirect heat."
+      ]
+    },
+    {
+      "intent": "Soup",
+      "text": [
+        "How do I make chicken noodle soup?",
+        "What's the recipe for tomato soup?",
+        "Can I make soup in a slow cooker?"
+      ],
+      "responses": [
+        "To make chicken noodle soup, boil chicken, noodles, and vegetables in chicken broth. For tomato soup, sauté onions and garlic, add canned tomatoes and broth, and blend. Yes, you can make soup in a slow cooker by combining ingredients and cooking on low for several hours."
+      ]
+    },
+    {
+      "intent": "Salad",
+      "text": [
+        "How do I make Caesar salad?",
+        "What's the recipe for Greek salad?",
+        "Can I make salad without lettuce?"
+      ],
+      "responses": [
+        "To make Caesar salad, mix romaine lettuce, croutons, parmesan cheese, and dressing. For Greek salad, combine lettuce, tomatoes, cucumbers, olives, feta cheese, and dressing. Yes, you can make salad without lettuce by using spinach, kale, or other greens."
+      ]
+    },
+    {
+      "intent": "Stir-fry",
+      "text": [
+        "What's the recipe for chicken stir-fry?",
+        "How do I make beef and broccoli stir-fry?",
+        "Can I make stir-fry without a wok?"
+      ],
+      "responses": [
+        "To make chicken stir-fry, stir-fry chicken and vegetables in oil and soy sauce. For beef and broccoli stir-fry, stir-fry beef, broccoli, and garlic in oil and soy sauce. Yes, you can make stir-fry without a wok by using a large frying pan or skillet."
+      ]
+    },
+    {
+  "intent": "Pancakes",
+  "text": [
+    "How do I make fluffy pancakes?",
+    "What's the recipe for blueberry pancakes?",
+    "Can I make pancakes without eggs?"
+  ],
+  "responses": [
+    "To make fluffy pancakes, separate the egg yolks and whites and beat the whites until stiff peaks form. Fold the whites into the batter just before cooking.",
+    "To make blueberry pancakes, mix 1 cup of fresh blueberries into the pancake batter. Cook on a greased griddle or pan until golden brown on both sides.",
+    "Yes, you can make pancakes without eggs by using a flax egg substitute or applesauce as a binder instead."
+  ]
+},
+
+{
+  "intent": "Grilled Cheese",
+  "text": [
+    "How do I make the perfect grilled cheese?",
+    "What's the best cheese for a grilled cheese sandwich?",
+    "Can I make grilled cheese in the oven?"
+  ],
+  "responses": [
+    "To make the perfect grilled cheese, use a mix of cheeses such as cheddar and gruyere, and spread a thin layer of mayo on the outside of the bread before grilling.",
+    "The best cheese for a grilled cheese sandwich is subjective, but popular choices include cheddar, gouda, and provolone.",
+    "Yes, you can make grilled cheese in the oven by placing the sandwich on a baking sheet and baking at 375°F for 10-15 minutes or until cheese is melted and bread is golden brown."
+  ]
+},
+
+{
+  "intent": "Stir Fry",
+  "text": [
+    "How do I make a stir fry sauce?",
+    "What vegetables are good for stir fry?",
+    "Can I use beef instead of chicken in stir fry?"
+  ],
+  "responses": [
+    "To make a stir fry sauce, mix together soy sauce, rice vinegar, sesame oil, honey, garlic, and ginger in a bowl.",
+    "Good vegetables for stir fry include bell peppers, broccoli, carrots, snow peas, and mushrooms.",
+    "Yes, you can use beef instead of chicken in stir fry. Just make sure to slice it thinly and cook it quickly over high heat."
+  ]
+},
+
+{
+  "intent": "Smoothies",
+  "text": [
+    "How do I make a green smoothie?",
+    "What fruits are good for smoothies?",
+    "Can I make smoothies without a blender?"
+  ],
+  "responses": [
+    "To make a green smoothie, blend together spinach or kale, frozen banana, almond milk, and a scoop of protein powder.",
+    "Good fruits for smoothies include bananas, berries, mangoes, and pineapples.",
+    "Technically, you can make smoothies without a blender by mashing the ingredients together by hand, but it will be more difficult to achieve a smooth texture."
+  ]
+},
+
+{
+  "intent": "Tacos",
+  "text": [
+    "How do I make taco seasoning?",
+    "What kind of meat is good for tacos?",
+    "Can I use corn tortillas instead of flour tortillas for tacos?"
+  ],
+  "responses": [
+    "To make taco seasoning, mix together chili powder, cumin, garlic powder, onion powder, paprika, salt, and black pepper.",
+    "Good meats for tacos include ground beef, shredded chicken, and carne asada.",
+    "Yes, you can use corn tortillas instead of flour tortillas for tacos. Corn tortillas are traditionally used in Mexican cuisine and have a more authentic taste."
+  ]
+},{
+"intent": "Omelette",
+"text": [
+"How do I make a fluffy omelette?",
+"What's the recipe for a spinach and feta omelette?",
+"Can I make an omelette without milk?"
+],
+"responses": [
+"To make a fluffy omelette, whisk eggs with a bit of water or milk and cook in a non-stick pan over medium heat. Use a spatula to gently lift and fold the eggs until cooked through.",
+"To make a spinach and feta omelette, sauté spinach with garlic and add to the egg mixture. Add crumbled feta cheese before folding the omelette.",
+"Yes, you can make an omelette without milk by using water or broth instead. The result may be slightly less creamy, but still delicious."
+]
+},
+
+{
+"intent": "Burger",
+"text": [
+"How do I make a juicy burger?",
+"What's the recipe for a mushroom Swiss burger?",
+"Can I make burgers without a grill?"
+],
+"responses": [
+"To make a juicy burger, choose ground beef with a higher fat content (80/20 or 85/15) and avoid overhandling the meat. Season with salt and pepper just before cooking.",
+"To make a mushroom Swiss burger, sauté mushrooms with garlic and add to the burger patty. Top with Swiss cheese and serve on a bun with lettuce and tomato.",
+"Yes, you can make burgers without a grill by cooking them in a cast-iron skillet or on a griddle. Just make sure to preheat the cooking surface and cook until the internal temperature reaches 160°F."
+]
+},
+
+{
+"intent": "Taco",
+"text": [
+"How do I make crispy tacos?",
+"What's the recipe for vegetarian tacos?",
+"Can I make tacos without tortillas?"
+],
+"responses": [
+"To make crispy tacos, bake or fry the tortillas until crispy before filling with taco meat and toppings.",
+"To make vegetarian tacos, use black beans, corn, and sautéed veggies like peppers and onions as the filling. Top with salsa, guacamole, and cheese.",
+"Yes, you can make tacos without tortillas by using lettuce leaves or cabbage leaves as the wrap. Or, you could make a taco salad by layering the toppings over a bed of lettuce."
+]
+}
+  ]
+}

@@ -1,0 +1,12 @@
+setuptools
+keras
+numpy
+scikit-learn
+pandas
+Flask
+tensorflow
+autocorrect
+flask-cors
+Faker
+gunicorn
+waitress

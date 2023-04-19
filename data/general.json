@@ -1,0 +1,92 @@
+{
+  "intents": [
+    {
+      "intent": "Greeting",
+      "text": [
+        "Hi there, how are you doing today?",
+        "Good morning, how's your day going so far?",
+        "Hey, what's up?",
+        "Hi",
+        "Hello",
+        "How are you"
+      ],
+      "responses": [
+        "I'm doing well, thanks for asking! How about you?",
+        "It's going pretty well, thanks for asking. How about you?",
+        "Not much, just trying to stay busy. How about you?"
+      ]
+    },
+       {
+      "intent": "BLANK",
+      "text": [
+        "Hi there, how are you doing today?"
+
+      ],
+      "responses": [
+        "Hello, how can I help you today?",
+        "Hey there, what brings you here?",
+        "Good day! What can I assist you with?",
+        "Greetings! Is there anything I can do for you?",
+        "Hi! What can I help you with?",
+        "Hey, how may I assist you?",
+        "Welcome! What brings you here today?",
+        "Hi there! How can I be of service?",
+        "Good morning! What can I help you with today?",
+        "Hey, how can I assist you?"
+      ]
+    },
+    {
+      "intent": "Movie",
+      "text": [
+        "Have you seen any good movies lately?",
+        "What's your favorite movie of all time?",
+        "Do you prefer watching movies at home or in the theater?"
+      ],
+      "responses": [
+        "I just saw the latest Marvel movie and it was amazing! How about you?",
+        "My all-time favorite movie is The Shawshank Redemption. What about you?",
+        "I prefer watching movies at home because it's more comfortable and convenient. How about you?"
+      ]
+    },
+    {
+      "intent": "Date",
+      "text": [
+        "Have you been on any good dates recently?",
+        "What's your idea of a perfect date?",
+        "Do you believe in love at first sight?"
+      ],
+      "responses": [
+        "I went on a really fun date last week where we went to a cooking class together. How about you?",
+        "My idea of a perfect date is something adventurous like rock climbing or hiking. What about you?",
+        "I think love at first sight is possible, but it's rare. What do you think?"
+      ]
+    },
+    {
+      "intent": "Dinner",
+      "text": [
+        "What's your favorite type of cuisine?",
+        "Do you prefer cooking at home or eating out?",
+        "Have you tried any new restaurants lately?"
+      ],
+      "responses": [
+        "I love Italian food, especially pizza and pasta. How about you?",
+        "I prefer cooking at home because it's healthier and more affordable. How about you?",
+        "I tried a new sushi restaurant last week and it was amazing! Have you been there before?"
+      ]
+    },
+    {
+      "intent": "Hobby",
+      "text": [
+        "What do you like to do for fun?",
+        "Do you have any interesting hobbies or talents?",
+        "Have you learned any new skills recently?"
+      ],
+      "responses": [
+        "I enjoy hiking and photography in my free time. How about you?",
+        "I'm actually really good at playing the guitar! What about you?",
+        "I just started learning how to code and it's been a fun challenge. Have you tried anything new lately?"
+      ]
+    }
+
+  ]
+}
