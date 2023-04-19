@@ -122,18 +122,6 @@
 },
 
 {
-  "intent": "Tacos",
-  "text": [
-    "How do I make taco seasoning?",
-    "What kind of meat is good for tacos?",
-    "Can I use corn tortillas instead of flour tortillas for tacos?"
-  ],
-  "responses": [
-    "To make taco seasoning, mix together chili powder, cumin, garlic powder, onion powder, paprika, salt, and black pepper.",
-    "Good meats for tacos include ground beef, shredded chicken, and carne asada.",
-    "Yes, you can use corn tortillas instead of flour tortillas for tacos. Corn tortillas are traditionally used in Mexican cuisine and have a more authentic taste."
-  ]
-},{
 "intent": "Omelette",
 "text": [
 "How do I make a fluffy omelette?",
@@ -173,6 +161,120 @@
 "To make vegetarian tacos, use black beans, corn, and sautéed veggies like peppers and onions as the filling. Top with salsa, guacamole, and cheese.",
 "Yes, you can make tacos without tortillas by using lettuce leaves or cabbage leaves as the wrap. Or, you could make a taco salad by layering the toppings over a bed of lettuce."
 ]
-}
+},{
+  "intent": "Noodles",
+  "text": [
+    "What's the recipe for chicken noodle soup?",
+    "How do I make pad thai?",
+    "Can I make ramen without a packet?"
+  ],
+  "responses": [
+    "To make chicken noodle soup, cook chicken and noodles in broth with vegetables. For pad thai, stir-fry rice noodles with eggs, shrimp, tofu, and peanuts. Yes, you can make ramen without a packet by making your own broth and seasoning with soy sauce, ginger, and garlic."
+  ]
+},
+
+
+{
+  "intent": "Fried Rice",
+  "text": [
+    "What's the recipe for vegetable fried rice?",
+    "How do I make shrimp fried rice?",
+    "Can I make fried rice without soy sauce?"
+  ],
+  "responses": [
+    "To make vegetable fried rice, stir-fry rice with vegetables and eggs, and season with soy sauce and sesame oil. For shrimp fried rice, add cooked shrimp to the vegetable fried rice. Yes, you can make fried rice without soy sauce by using other seasonings like oyster sauce or hoisin sauce."
+  ]
+},
+
+
+{
+  "intent": "Bagel",
+  "text": [
+    "What's the recipe for a classic bagel?",
+    "How do I make a cinnamon raisin bagel?",
+    "Can I make bagels without a stand mixer?"
+  ],
+  "responses": [
+    "To make a classic bagel, mix flour, water, yeast, and salt, and let the dough rise before boiling and baking. For a cinnamon raisin bagel, add cinnamon and raisins to the dough before shaping. Yes, you can make bagels without a stand mixer by mixing and kneading the dough by hand."
+  ]
+},
+
+
+{
+  "intent": "Sandwiches",
+  "text": [
+    "What's the recipe for a BLT sandwich?",
+    "How do I make a grilled cheese sandwich?",
+    "Can I make sandwiches without bread?"
+  ],
+  "responses": [
+    "To make a BLT sandwich, toast bread and add bacon, lettuce, and tomato with mayonnaise. For a grilled cheese sandwich, butter bread and grill with cheese in a pan. Yes, you can make sandwiches without bread by using lettuce leaves, tortillas, or pita pockets as a wrap."
+  ]
+},{
+  "intent": "French Fries",
+  "text": [
+    "How do I make crispy french fries at home?",
+    "What's the best way to season french fries?",
+    "Can I make french fries in an air fryer?"
+  ],
+  "responses": [
+    "To make crispy french fries at home, cut potatoes into thin strips and soak in cold water for 30 minutes. Then, dry the fries and fry them in hot oil until crispy. For seasoning, try a mix of salt, paprika, and garlic powder. Yes, you can make french fries in an air fryer for a healthier option."
+  ]
+},
+{
+  "intent": "Beef Burrito",
+  "text": [
+    "What's the recipe for a beef burrito?",
+    "How do I make a burrito bowl?",
+    "Can I use chicken instead of beef for a burrito?"
+  ],
+  "responses": [
+    "To make a beef burrito, cook ground beef with onions, peppers, and spices. Then, wrap the beef in a flour tortilla with rice, beans, cheese, and salsa. For a burrito bowl, use the same ingredients but serve them in a bowl instead of a tortilla. Yes, you can use chicken instead of beef for a burrito."
+  ]
+},
+{
+  "intent": "Pho",
+  "text": [
+    "How do I make pho broth?",
+    "What kind of noodles should I use for pho?",
+    "Can I make vegetarian pho?"
+  ],
+  "responses": [
+    "To make pho broth, simmer beef bones, onions, ginger, and spices for several hours. Strain the broth and add cooked noodles, sliced beef, and fresh herbs. For noodles, use rice noodles. Yes, you can make vegetarian pho by using vegetable broth and tofu instead of beef."
+  ]
+},
+{
+  "intent": "Chicken Alfredo",
+  "text": [
+    "What's the recipe for chicken alfredo?",
+    "Can I use a different type of pasta for alfredo?",
+    "How do I make alfredo sauce?"
+  ],
+  "responses": [
+    "To make chicken alfredo, cook chicken and pasta separately, then mix with a homemade alfredo sauce made from butter, cream, garlic, and parmesan cheese. Yes, you can use a different type of pasta for alfredo, such as fettuccine or linguine. To make alfredo sauce, melt butter in a saucepan, add garlic and cream, and stir in grated parmesan cheese until smooth."
+  ]
+},
+{
+  "intent": "Lobster Bisque",
+  "text": [
+    "How do I make lobster bisque?",
+    "What kind of seafood can I use in bisque?",
+    "Can I make bisque without cream?"
+  ],
+  "responses": [
+    "To make lobster bisque, sauté onions and carrots, then add lobster meat and broth. Simmer and puree, then add cream and spices. You can use other seafood in bisque, such as shrimp or crab. Yes, you can make bisque without cream by using a roux made from butter and flour instead."
+  ]
+},
+{
+  "intent": "Greek Gyro",
+  "text": [
+    "What's the recipe for a Greek gyro?",
+    "What kind of meat should I use for a gyro?",
+    "How do I make tzatziki sauce?"
+  ],
+  "responses": [
+    "To make a Greek gyro, cook slices of seasoned lamb or chicken on"
+]}
+
   ]
 }
